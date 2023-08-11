@@ -1,5 +1,9 @@
 # React Weather Website  🏞️
 
+
+![Print da aplicação](https://raw.githubusercontent.com/cleisoncarlos/Weather/main/print.png)
+
+
 Welcome to my React Weather Website project ! This application provides real-time weather updates, including temperature, wind, max temperature, min temperature, sunrise time, and weather images.
 
 ## Features:
